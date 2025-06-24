@@ -8,7 +8,7 @@ namespace Práctica5
         }
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-
+            //hola
             //COmentario git
             if (txtbApellido.Text == "")
                 txtbApellido.BackColor = Color.Red;
