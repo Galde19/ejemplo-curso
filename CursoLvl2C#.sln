@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiPrimeraAPP", "Exercici1\MiPrimeraAPP.csproj", "{B105CC2F-34A6-4F18-A6C1-6D2650F449E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica5", "Práctica5\Práctica5.csproj", "{B3B98C28-6797-432F-A0B1-863DB1CF490C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B105CC2F-34A6-4F18-A6C1-6D2650F449E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B105CC2F-34A6-4F18-A6C1-6D2650F449E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B105CC2F-34A6-4F18-A6C1-6D2650F449E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B105CC2F-34A6-4F18-A6C1-6D2650F449E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B98C28-6797-432F-A0B1-863DB1CF490C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B98C28-6797-432F-A0B1-863DB1CF490C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B98C28-6797-432F-A0B1-863DB1CF490C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B98C28-6797-432F-A0B1-863DB1CF490C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53C93A0-EA61-4702-B4B2-499A15FA90D6}
+	EndGlobalSection
+EndGlobal
